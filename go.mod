@@ -1,3 +1,3 @@
-module n2b.io/algorithms
+module github.com/narcisobenigno/algorithms
 
 go 1.14
